@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Agrawal</h1>
-<h3 align="center">I am a student of 2nd year AIML-CSE</h3>
+<h3 align="center">Student of 3rd year AIML-CSE</h3>
 
-- 🌱 I’m currently learning **Machine Learning** and **DSA**
+- 🌱 I’m currently learning **Machine Learning**, **DSA** and **Web Development**
 
 - 📫 How to reach me **dhruvagrawal247@gmail.com**
 
